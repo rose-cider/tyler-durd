@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @tyler-durd
 - 👀 I’m interested in making fun, strange programs
 - 🌱 I’m currently learning java, c, python, assembly code, and c# on the side
-- 💞️ I’m looking to collaborate on (i dont know yet sorry)
+- 💞️ I’m afraid of people
 - 📫 How to reach me = discord 
-- 😄 Pronouns: whatever goes
+- 😄 Pronouns: whatever man
 - ⚡ Fun fact: I love lain!
 
 <!---
