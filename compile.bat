@@ -1,0 +1,1 @@
+javac -d classes -cp "src;src/.*;src/data/people.txt" src/test/DiaryAPP.java
