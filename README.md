@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @tyler-durd
-
-
-<!---
-tyler-durd/tyler-durd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/user-attachments/assets/3bdd32f7-18a2-4403-b6d0-a2cf3397deae)
+Hi, I am Miya :) I like making stuff with my computer. 
